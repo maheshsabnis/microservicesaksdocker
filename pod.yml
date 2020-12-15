@@ -1,0 +1,15 @@
+# pod.yml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: first-netcore-app
+  labels:
+    app: hello-aks
+    component: netcore-app
+spec:
+  containers:
+    - image: msitacrpnq.azurecr.io/helloaks:0.0.1
+      name: webapi
+      ports:
+        - containerPort: 80
+
