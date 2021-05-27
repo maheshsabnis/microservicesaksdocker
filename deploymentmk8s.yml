@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name:  hello-aspnetcore-deployment
+  namespace: default
+  labels:
+    app:  hello-aspnetcore-deployment
+spec:
+  selector:
+    matchLabels:
+      app: hello-aspnetcore-pod
+  template:
+    metadata:
+      labels:
+        app:  hello-aspnetcore-pod
+    spec:
+      containers:
+      - name:  hello-aspnetcore-container
+        image:  mast007/helloworld:v1
+        resources:
+          limits:
+            cpu: "500m"
+            memory: "128Mi"
+        ports:
+        - containerPort:  80
+       
