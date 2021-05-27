@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KvXKDVaSplnbFmUGklU5wxQR/mZY3zEW1Uel+ikH9NeJq7L9IzuY5ouzu+EhpB+v0RU7fvedtJWpyqjjPENviQ==",
+  "dgSpecHash": "Ea1tEsEkYhBq9UUQVnmd7aEvyiuCkfyOk9954+14XAk73JVs/+L6ZpBIZpFx5KyBF/eUoSaEzoSZ9A9wticFmQ==",
   "success": true,
   "projectFilePath": "/Users/maheshsabnis/Projects/Microservices/aksapp/HelloAKS/HelloAKS.csproj",
   "expectedPackageFiles": [
@@ -9,8 +9,7 @@
     "/Users/maheshsabnis/.nuget/packages/swashbuckle.aspnetcore/5.5.1/swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
     "/Users/maheshsabnis/.nuget/packages/swashbuckle.aspnetcore.swagger/5.5.1/swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
     "/Users/maheshsabnis/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.5.1/swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
-    "/Users/maheshsabnis/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.5.1/swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512",
-    "/Users/maheshsabnis/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "/Users/maheshsabnis/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.5.1/swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
   ],
   "logs": []
 }

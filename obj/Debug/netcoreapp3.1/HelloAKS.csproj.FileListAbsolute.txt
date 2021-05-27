@@ -22,3 +22,4 @@
 /Users/maheshsabnis/Projects/Microservices/aksapp/HelloAKS/obj/Debug/netcoreapp3.1/HelloAKS.dll
 /Users/maheshsabnis/Projects/Microservices/aksapp/HelloAKS/obj/Debug/netcoreapp3.1/HelloAKS.pdb
 /Users/maheshsabnis/Projects/Microservices/aksapp/HelloAKS/obj/Debug/netcoreapp3.1/HelloAKS.genruntimeconfig.cache
+/Users/maheshsabnis/Projects/Microservices/aksapp/HelloAKS/obj/Debug/netcoreapp3.1/scopedcss/bundle/HelloAKS.styles.css

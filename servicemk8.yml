@@ -7,7 +7,7 @@ metadata:
   name: hello-aspnetcore-service
 spec:
   ports:
-    - port: 8080 # external port used to access the service
+    - port: 80 # external port used to access the service
       targetPort: 80 # container port
   selector:
     app: hello-aspnetcore-pod

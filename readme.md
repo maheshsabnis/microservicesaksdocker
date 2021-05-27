@@ -64,6 +64,9 @@ ACR_ID=$(az acr show -n msitacr -g hello-aks --query id -o tsv)
 
 14. kubectl get pods
 15. kubectl get endpoints 
+16. get the logs of deployment
+kubectl logs hello-aspnetcore-deployment-7c6fcdd9b4-qdf2j
+
 
         
 

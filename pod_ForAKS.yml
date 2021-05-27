@@ -8,7 +8,7 @@ metadata:
     component: netcore-app
 spec:
   containers:
-    - image: helloworld:0.0.1
+    - image: msitacrpnq.azurecr.io/helloaks:0.0.1
       name: webapi
       ports:
         - containerPort: 80
